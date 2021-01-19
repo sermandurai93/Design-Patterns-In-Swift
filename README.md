@@ -1,11 +1,11 @@
 
 
-Design Patterns implemented in Swift 5.0
+Design Pa tterns implemented in Swift 5.0
 ========================================
 
-A short cheat-sheet with Xcode 10.2 Playground ([Design-Patterns.playground.zip](https://raw.githubusercontent.com/ochococo/Design-Patterns-In-Swift/master/Design-Patterns.playground.zip)).
+A short cheat-sheet with Xco de 10.2 Playground ([Design-Patterns.playground.zip](https://raw.githubusercontent.com/ochococo/Design-Patterns-In-Swift/master/Design-Patterns.playground.zip)).
 
-### [🇨🇳中文版](https://github.com/ochococo/Design-Patterns-In-Swift/blob/master/README-CN.md)
+### [🇨🇳中文版](https://github.com/ochococo/Design-Pat terns-In-Swift/blob/master/README-CN.md)
 
 👷 Project started by: [@nsmeme](http://twitter.com/nsmeme) (Oktawian Chojnacki)
 
